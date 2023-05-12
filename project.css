@@ -44,19 +44,15 @@ color: rgb(80, 80, 80);
     background-color: black;
     min-height: 50px;
 }
+/* video {
+    width: 100%;
+    height: 100%;
+ } */
 
-.favorite{
-    background-color: black;
-    min-height: 120px;
-}
-
-input::-webkit-input-placeholder {
-    color: white; 
-    font-style: italic; 
-    background: black;
-  }
-
-  input {
-    color: black;
-  }
-
+ .america {
+    background: url("../day-and-night-restaurants-city-live-wallpaper.mp4");
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+ }
+ 
