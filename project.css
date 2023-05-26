@@ -216,7 +216,7 @@ color: rgb(80, 80, 80);
     margin-top: 270px;
 }
 
-.dedf {
+.btn {
     position: relative;
     z-index: 5;
     height: 50px;
@@ -226,7 +226,32 @@ color: rgb(80, 80, 80);
     margin-right: 564px;
 }
 
-.dedf a {
-    font-size: 20px;
+#ass {
+    display: none;
 }
 
+
+[class*="__aboba"] {
+position: relative; 
+display: flex;   
+font-size: 40px;
+float: right;
+text-align: center;
+height: 200px;
+width: 1000px;
+} 
+    
+[class*="__monkey"] {
+position: relative;    
+width: 361px;
+height: 420px;
+}
+
+.main {
+    margin-top: 137px;
+
+}
+
+[class*="__faf"] {
+    margin-left: 30px;
+}
